@@ -12,8 +12,8 @@
 - 最終的に、github 上の main ブランチに、３回以上の merge が記録されていれば、課題をクリアしたことになります。
 
 ### 多摩大学の講義で面白かったもの
-- AL Competitive Programming
-- Challenging 
+- 
+-  
 
 ### 最近ゼミでやっていること
 - （活動の内容）←ここ書き換え
